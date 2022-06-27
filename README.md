@@ -1,5 +1,6 @@
 # NLRNET
-Code for our paper "NLRNet: An Efficient Nonlocal Attention ResNet for Pansharpening".
+If you use our code, please cite the following papers.
+D. Lei, H. Chen, L. Zhang and W. Li, "NLRNet: An Efficient Nonlocal Attention ResNet for Pansharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 5401113, doi: 10.1109/TGRS.2021.3067097.
 解压后源码包主要目录结构及文件作用。
 ├──NLRNET 
 │    ├──experiment			  //抽离出的各种类型网络中通用的一些方法函数
